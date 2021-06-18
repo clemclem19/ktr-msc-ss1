@@ -1,4 +1,4 @@
-package ktr;
+package exceptions;
 
 public class Character {
 	
